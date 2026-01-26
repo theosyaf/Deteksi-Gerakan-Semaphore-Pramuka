@@ -34,7 +34,7 @@ Metode ini memungkinkan sistem berjalan dengan latensi rendah pada perangkat den
 ## 📊 Hasil Penelitian
 
 *Ringkasan singkat hasil :*
-* Model **LeNet-5** mencapai akurasi tertinggi sebesar **70.626**.
+* Model **LeNet-5** mencapai akurasi tertinggi sebesar **93.27%**.
 * Jumlah Parameter adalah **70.626 ms**.
 
 ---
